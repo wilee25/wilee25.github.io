@@ -51,8 +51,8 @@ menu:
     url:               /example/
   - title:             임시1
     url:               /test1/
-  - title:             임시2
-    url:               /test2/
+  - title:             test
+    url:               /test/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
