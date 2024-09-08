@@ -47,10 +47,10 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             TIL
+    url:               /TIL/
   - title:             Example
     url:               /example/
-  - title:             임시1
-    url:               /test1/
   - title:             test
     url:               /test/
 
