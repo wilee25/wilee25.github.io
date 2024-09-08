@@ -50,7 +50,7 @@ menu:
   - title:             TIL
     url:               /til/
   - title:             Github Blog
-    url:               /github_blog/
+    url:               /github-blog/
   - title:             etc
     url:               /etc/
 
