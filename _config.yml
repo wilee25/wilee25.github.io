@@ -47,12 +47,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             TIL
-    url:               /til/
   - title:             Github Blog
     url:               /github-blog/
   - title:             etc
     url:               /etc/
+  - title:             etc2
+    url:               /etc2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
