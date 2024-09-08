@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             TIL
-    url:               /TIL/
+    url:               /til/
   - title:             Example
     url:               /example/
   - title:             test
