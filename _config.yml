@@ -51,6 +51,9 @@ menu:
     url:               /github-blog/
   - title:             etc
     url:               /etc/
+    submenu: 
+      - title:         etc3
+        url:           /etc3/
   - title:             etc2
     url:               /etc2/
 
