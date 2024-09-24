@@ -47,8 +47,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Github Blog
-    url:               /github blog/
+  - title:             Github Blog # 사이드 바 표기
+    url:               /github-blog/
   - title:             etc
     url:               /etc/
     submenu: 
