@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Github Blog
-    url:               /github-blog/
+    url:               /github blog/
   - title:             etc
     url:               /etc/
     submenu: 
