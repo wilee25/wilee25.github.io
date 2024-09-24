@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: github blog
+title: Github Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: github-blog
