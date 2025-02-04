@@ -53,7 +53,7 @@ menu:
     url:               /C++/
     submenu: 
       - title:         MFC
-        url:           /MFC/
+        url:           /C++/MFC/
   - title:             etc2
     url:               /etc2/
 
