@@ -3,8 +3,7 @@ layout: post
 title:  "C++ 포스트 테스트"
 date:   2024-09-08 04:11:15 +0900
 categories:
-  - C/C++
-  - MFC
+  - C++
 #published: false
 ---
 {% include hits.md %}
