@@ -16,7 +16,7 @@
 
 layout: base
 ---
-{% include hits.md %}
+
 {% assign version = jekyll.version | split:'.' %}
 {% assign major = version[0] | plus:0 %}
 {% assign minor = version[1] | plus:0 %}
@@ -39,3 +39,5 @@ layout: base
   {% else %}
   {% endcase %}
 {% endfor %}
+
+  {% include hits.md %}
