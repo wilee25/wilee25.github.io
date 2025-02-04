@@ -24,9 +24,10 @@ layout: base
 
 {% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
 <article>
-  {{ site.url }}{{ page.url }}
+  <div id="hits-container"></div> 
   {{ content }}
 </article>
+<script src="{{ '/assets/js/hits.js' | relative_url }}"></script>
 {% include components/dingbat.html %}
 
 {% assign addons = page.addons | default:site.hydejack.post_addons %}
