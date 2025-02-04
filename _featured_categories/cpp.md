@@ -10,7 +10,7 @@ slug: c++
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  C++ 관련
+  C++ 관련 내용을 기록합니다.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
