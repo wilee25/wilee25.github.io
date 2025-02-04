@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: etc3
+title: mfc
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: etc3
+slug: mfc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  임시3
+  MFC
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
