@@ -49,8 +49,8 @@ author:
 menu:
   - title:             Github Blog # 사이드 바 표기
     url:               /github-blog/
-  - title:             C
-    url:               /c/
+  - title:             "C++"
+    url:               /"c++"/
  #   submenu: 
  #     - title:         MFC
  #       url:           /C++/MFC/
